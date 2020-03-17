@@ -1,0 +1,301 @@
+p {
+    font-family: "B Nazanin", Tahoma, Serif;
+    color: green;
+    font-size: 33px;
+    overflow: inherit;
+
+}
+
+#menu {
+    color: darkslateblue;
+    font-size: 33px;
+    text-underline-mode: off;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+#submit {
+    color: green;
+    font-size: 40px;
+    border-color: blueviolet;
+    border-bottom-style: solid;
+    box-snap: initial;
+}
+
+#kala {
+    color: darkslateblue;
+    font-size: x-large;
+    border-bottom-style: solid;
+}
+
+#footer {
+    color: black;
+    font-size: 30px;
+
+}
+
+#menubar {
+    background: linear-gradient(dimgray, darkgrey, white);
+    height: 100px;
+    padding: 20px;
+    position: relative;
+    top: 0px;
+
+
+}
+
+#h1 {
+    background-color: darkslateblue;
+    padding: 5px 10px 5px 10px;
+    height: 120px;
+    position: relative;
+    text-shadow: 10px 5px 5px #fffce8;
+}
+
+#namesherkat {
+    background-color: crimson;
+    width: 95%;
+    height: 70px;
+    padding: 10px;
+    margin: 5px;
+    position: absolute;
+    z-index: 1;
+    right: 70px;
+
+
+}
+
+#logo {
+    background-color: crimson;
+    width: auto;
+    height: 50px;
+    padding: 20px;
+    margin: 5px;
+    position: absolute;
+    z-index: 0;
+}
+
+#footerdiv {
+
+    background-color: darkgrey;
+    margin: 5px;
+    padding: 10px;
+    height: 250px;
+    width: 100%;
+    position: absolute;
+    top: 1000px;
+
+}
+
+#insta {
+    margin: 5px;
+    float: right;
+    position: absolute;
+    right: 145px;
+}
+
+#footer {
+    margin: 5px;
+
+#footer1 {
+    margin: 5px;
+    float: right;
+    color: black;
+}
+
+}
+#footer2 {
+    margin: 5px;
+    clear: right;
+    color: black;
+}
+
+#adress {
+    margin: 5px;
+}
+
+#moarefi {
+    padding: 10px 200px 10px 200px;
+    text-align: justify;
+}
+
+#span {
+    color: aqua;
+}
+
+#axegayeg {
+    border-color: darkgrey;
+    border-width: 10px;
+    border-style: ridge;
+    margin: 5px;
+    padding: 0px 30px 0px 10px;
+
+
+}
+
+.menubar1 {
+
+    float: right;
+    margin: 10px 25px;
+    list-style-type: none;
+
+}
+
+.menubar2 {
+
+    float: right;
+    margin: 10px 25px;
+    list-style-type: none;
+}
+
+.menubar3 {
+
+    float: right;
+    margin: 10px 25px;
+    list-style-type: none;
+}
+
+.menubar4 {
+
+    float: right;
+    margin: 10px 25px;
+    list-style-type: none;
+}
+
+.menubar5 {
+
+    float: right;
+    margin: 10px 25px;
+    list-style-type: none;
+}
+
+#footer4 {
+    float: right;
+
+}
+
+#menu:hover {
+    font-size: 3em;
+    color: darkorange;
+}
+
+#menu:active {
+    font-size: 4em;
+    color: red;
+}
+
+.h3 {
+    color: black;
+    font-size: 25px;
+    font-family: "B Nazanin", Tahoma, Serif colorgreen;
+
+}
+
+.h3span {
+    color: blueviolet;
+    font-family: Serif;
+
+}
+
+#form {
+    background-color: aliceblue;
+    position: relative;
+    top: 20px;
+
+}
+
+#formname {
+    border-radius: 6px;
+
+
+}
+
+#label {
+    font-size: 20px;
+    color: darkslateblue;
+
+}
+
+.name {
+    position: absolute;
+    right: 50px;
+}
+
+.lname {
+    position: absolute;
+    right: 250px;
+}
+
+.poscod {
+    position: absolute;
+    right: 450px;
+}
+
+.email {
+    position: absolute;
+    right: 650px;
+}
+
+.radiototal {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+.select {
+    /*position: absolute;*/
+    clear: both;
+    right: 50px;
+}
+
+.ghavanin {
+    clear: both;
+    right: 50px;
+}
+
+.tozihat {
+    clear: both;
+    /*position: absolute;*/
+    /*top: 800px;*/
+    right: 50px;
+}
+
+.submit {
+    clear: both;
+    /*position: absolute;*/
+    /*top: 1100px;*/
+    right: 50px;
+}
+
+
+#lname {
+    border-radius: 6px;
+}
+
+#pcod {
+    border-radius: 6px;
+}
+
+#email {
+    border-radius: 6px;
+}
+
+.ivorod {
+    background-color: darkkhakid;
+}
+
+#labelcity {
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+.labelcity {
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+
+.checkbox {
+    font-size: 15px;
+}
